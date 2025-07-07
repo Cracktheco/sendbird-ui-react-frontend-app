@@ -12,10 +12,10 @@ A React app built with Sendbird UIKit and Socket.io that displays real-time chat
 ## Getting Started
 
 1. Clone the repo
-   ```bash
+```bash
   git clone https://github.com/Cracktheco/sendbird-ui-react-frontend-app.git
   cd sendbird-ui-react-frontend-app
-   ```
+```
 
 2. Install dependencies 
 ```bash
