@@ -1,0 +1,64 @@
+{
+  "name": "@sendbird/uikit-react-typescript-sample",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Sendbird UIKit TS Sample for React: A feature-rich and customizable chat UI kit with messaging, channel management, and user authentication.",
+  "keywords": [
+    "sendbird",
+    "uikit",
+    "react",
+    "chat",
+    "messaging",
+    "real-time",
+    "UI components",
+    "user authentication",
+    "channel management",
+    "SDK integration",
+    "customizable",
+    "feature-rich",
+    "social app",
+    "customer support",
+    "API"
+  ],
+  "dependencies": {
+    "@sendbird/uikit-react": "^3.12.0",
+    "@testing-library/jest-dom": "^5.16.4",
+    "@testing-library/react": "^13.3.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@types/jest": "^27.5.2",
+    "@types/node": "^16.11.43",
+    "@types/react": "^18.0.15",
+    "@types/react-dom": "^18.0.6",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "socket.io-client": "^4.8.1",
+    "typescript": "^4.7.4",
+    "vite": "^4.3.9",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
